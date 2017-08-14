@@ -6,9 +6,9 @@ with open('README.rst') as f:
     readme = f.read()
 
 setup(
-    name='pytemplate',
+    name='py_csv_to_json',
     version='0.0.1',
-    description='Generic template for python projects',
+    description='Converting the csv file to json using python',
     long_description=readme,
     author='Quadyster Cloud Devs',
     author_email='',
